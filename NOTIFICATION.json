@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "title": "New alert",
+  "message": "aaa",
+  "style": "inbox",
+"lines": ["Message 1", "Message 2", "Message 3"],
+  "sound": true,
+  "vibrate": true,
+  "expires": "2025-05-01T12:00:00",
+  "image": "http://alo0osh-sy.yn.lt/images/-.jpg",
+  "actions": [
+    {
+      "title": "to open",
+      "url": "https://telegram.me/moddingmaniaaa"
+    },
+    {
+      "title": "ignorance"
+    }
+  ]
+}
