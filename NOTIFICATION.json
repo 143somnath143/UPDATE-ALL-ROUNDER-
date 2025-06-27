@@ -2,7 +2,7 @@
   "enabled": true,
   "title": "New alert",
   "message": "aaa",
-  "style": "inbox",
+  "style": "bigtext",
 "lines": ["Message 1", "Message 2", "Message 3"],
   "sound": true,
   "vibrate": true,
